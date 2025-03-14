@@ -1,0 +1,9 @@
+#include<stdio.h>
+void myFunction() {
+  printf("Welcome!");
+}
+
+int main() {
+  myFunction(); // call the function
+  return 0;
+}
