@@ -20,7 +20,7 @@ int main()
 
 #include<stdio.h>
 #define PI 3.14
-#undef             
+#undef PI          
 
 int main()
 {
