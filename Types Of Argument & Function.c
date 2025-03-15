@@ -1,4 +1,4 @@
-//without argument without return
+//without argument without return ###################################################################################################################
 
 #include<stdio.h>  // return , int
 
@@ -40,7 +40,7 @@ void messi()
 
 }
 
-//without argument with return
+//without argument with return ###################################################################################################################
 
 #include<stdio.h>  // return , int
 
@@ -84,7 +84,7 @@ int messi()
     return z;
 }
 
-//with argument without return
+//with argument without return ###################################################################################################################
 
 #include<stdio.h>              // header
 
@@ -126,7 +126,8 @@ void messi(int x, int y)     //Definition
     printf("%d\n",z);
 }
 
-//with argument with return
+//with argument with return ###################################################################################################################
+
 #include<stdio.h>
 
 int messi(int , int );
