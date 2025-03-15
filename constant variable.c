@@ -12,5 +12,21 @@ int main()
     /* Constants Variable types
        1. #define
        2. const
-    */
+}
+
+##############################################################################################################################
+
+// undefine use pannal define il ullathu work aagathu
+
+#include<stdio.h>
+#define PI 3.14
+#undef             
+
+int main()
+{
+
+    float area;
+    int radius = 5; // OR you can use this --->  const int radius = 5;
+    area = PI * radius * radius;
+    printf("Area = %f\n",area);
 }
