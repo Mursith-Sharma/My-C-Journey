@@ -7,6 +7,8 @@ float	             4 bytes	               Stores fractional numbers, containing 
 double	           8 bytes	               Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits                           	1.99
 char	             1 byte	                 Stores a single character/letter/number, or ASCII values	                                                                        'A'
 
+ //different between float & double (only memory size difference ==> 4 byte : 8 byte)
+
   #include<stdio.h>
   int main ()
 {
