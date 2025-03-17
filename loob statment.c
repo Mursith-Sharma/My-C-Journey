@@ -1,4 +1,4 @@
-///while loob
+///while loob #################################################################################################
 
 #include <stdio.h>
 
@@ -12,7 +12,7 @@ int main() {
     }
 }
 
-///Print (0 to 10 ,, 10 - 0) using while loob
+///Print (0 to 10 ,, 10 - 0) using while loob ####################################################################
 
 #include <stdio.h>
 
@@ -34,7 +34,7 @@ int main()
 
 
 
-///Do while statment
+///Do while statement ################################################################################################
 
 
 #include <stdio.h>
@@ -54,7 +54,7 @@ int main()
     while(y>0);
 }
 
-///Print (0 to 10 ,, 10 - 0) using do while loob
+///Print (0 to 10 ,, 10 - 0) using do while loob ###########################################################################
 
 #include<stdio.h>
 int main()
@@ -76,10 +76,12 @@ int main()
     while(y>=0);
 }
 
+##############################################################################################################################
+
 Loop Type	When to Use?
 
 while Loop (Unknown Iterations)
-Used when you don’t know how many times the loop should run.
+Used when you donâ€™t know how many times the loop should run.
 It keeps running until a condition becomes false.
 
 for Loop (Known Iterations)
@@ -87,7 +89,7 @@ Used when you know exactly how many times to run the loop.
 It has three parts in one line:
 (1) Initialization, (2) Condition, (3) Increment/Decrement.
 
-///nested loob statment
+///nested loob statment ########################################################################################################
 
 #include<stdio.h>
 int main()
