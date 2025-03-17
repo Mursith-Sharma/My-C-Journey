@@ -3,9 +3,9 @@
 Operator    	Name	                Example           Description
    +       	Addition                   x + y         Adds together two values
    -       	Subtraction	               x - y         Subtracts one value from another
-   *       	Multiplication	           x * y         Multiplies two values
+   *       	Multiplication	   x * y         Multiplies two values
    /        Division	               x / y         Divides one value by another
-   %       	Modulus	                   x % y         Returns the division remainder
+   %       	Modulus	               x % y         Returns the division remainder
    ++      	Increment                  ++x           Increases the value of a variable by 1
    --      	Decrement                  --x           Decreases the value of a variable by 1
 
@@ -95,7 +95,7 @@ ____________________________Mursith Explained_______________________________
 --------------------------------
 1st shift (>> 1) →  0001 1110  (Now 30)
 2nd shift (>> 2) →  0000 1111  (Now 15)
-3rd shift (>> 3) →  0000 0011  (Now 7)
+3rd shift (>> 3) →  0000 0111  (Now 7)
 --------------------------------
 Final Result → 7
 
