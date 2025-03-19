@@ -76,6 +76,30 @@ int main()
     return 0;
 }
 
+///get input from user:- array size, data (1st array) ################################################################################
+
+
+#include<stdio.h>
+int main()
+{
+    int n,x;
+    printf("enter the array size: ");
+    scanf("%d",&n);
+    int a[n];                                   //array size
+    printf("Enter the numbers: \n");
+    for(x=0;x<n;x++)
+    {
+        scanf("%d",&a[x]);
+    }
+    printf("Arrays are: \n");
+    for(x=0;x<n;x++)
+    {
+        printf(" a[%d] = %d\n",x,a[x]);
+    }
+    return 0;
+}
+
+
 ///2D array #######################################################################################################
 
    column
