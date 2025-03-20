@@ -72,7 +72,7 @@ int main()
 }
 
 
-// string length
+// string length ##########################################
 
 #include<stdio.h>
 #include<string.h>
@@ -83,7 +83,7 @@ int main()
     printf("string length = %d",length);
 }
 
-// string copy method
+// string copy method #######################################
 
 #include <stdio.h>
 #include <string.h>
@@ -97,6 +97,8 @@ int main() {
     printf("%s \n %s",s1,s2);
     return 0;
 }
+
+#############################################################
 
        0      1      2      3      4      5
   ┌───────┬───────┬───────┬───────┬───────┬───────┐
