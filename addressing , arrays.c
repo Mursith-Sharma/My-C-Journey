@@ -19,7 +19,7 @@ int main()
 
 }
 
-//output here
+//output here  #######################################################################################################################
 
 mars1: apple
 mars2: beetsapple
@@ -39,6 +39,8 @@ mars6: 6421968
 // according to expereince ==> c is low level language ( bcz we can access direct memory & hardware devices using c language)
 //compailer (high level language to low level language translator)
 
+##########################################################################################################################################
+    
 #include<stdio.h>
 int main()
 {
