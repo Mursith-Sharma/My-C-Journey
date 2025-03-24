@@ -1,3 +1,16 @@
+Data Type        | Size (bytes) in 32-bit | Size (bytes) in 64-bit
+---------------------------------------------------------------
+int             | 4                      | 4
+float           | 4                      | 4
+char            | 1                      | 1
+short int       | 2                      | 2
+long int        | 4                      | 8
+long long int   | 8                      | 8
+double          | 8                      | 8
+long double     | 12 or 16               | 16
+pointer         | 4                      | 8
+array           | Depends on type & size | Depends on type & size
+
 /// ✅ Method 1: Initialize at Declaration (Recommended) ##############################################
 
 #include<stdio.h>
