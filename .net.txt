@@ -1,0 +1,77 @@
+http://localhost/Prectice/index.php/
+http://localhost/prectice/php%203/basic.php
+http://localhost/prectice/php 4  ( syntex , data typ, variable)/index.php
+
+dress buy
+ram sell
+
+php only 10 days  ( June 6 or 7)
+c# 
+.net
+java
+
+
+
+
+
+
+
+
+
+✅ 1. Programming Language:
+C# (C Sharp)
+
+.NET-இல் backend எழுத முக்கியமான மொழி.
+
+Variables, Loops, Functions, OOP (Class, Object, Inheritance) பற்றி அறிந்து கொள்ளவும்.
+
+✅ 2. Framework:
+ASP.NET Core
+
+Modern Web Development க்கு மிகவும் முக்கியமானது.
+
+You’ll learn:
+
+MVC architecture
+
+Razor Pages
+
+Middleware
+
+Routing
+
+Dependency Injection
+
+✅ 3. Frontend (Already Known):
+HTML, CSS, Bootstrap ✅
+
+JS (JavaScript) – Basic level தெரிந்தால் interaction add செய்யலாம்.
+
+✅ 4. Database:
+SQL Server (preferred with .NET)
+
+Tables, Keys, Joins, Stored Procedures
+
+Entity Framework Core (ORM tool)
+
+Database-ஐ Object-ஆக map செய்து எளிதாக பணியாற்றலாம்.
+
+✅ 5. Authentication & Authorization:
+Login/Registration (for library & store)
+
+Role-based Access (Admin, Student, Customer, etc.)
+
+✅ 6. Third-party Libraries (Special for Projects):
+Project	Required Library / Knowledge
+QR Generator	QRCoder library (QRCoder.Net)
+Library Management System	CRUD operations, Search filters, PDF export (optional)
+Online Book Store	Shopping Cart Logic, Payment gateway integration (dummy), Image upload, etc.
+
+
+
+
+
+
+
+
+
